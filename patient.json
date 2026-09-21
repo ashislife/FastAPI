@@ -1,0 +1,145 @@
+[
+    {
+        "patient_id": "P001",
+        "age": 35,
+        "gender": "Male",
+        "blood_group": "B+",
+        "symptoms": [
+            "Headache",
+            "Dizziness",
+            "Fatigue"
+        ],
+        "blood_pressure": "145/90",
+        "heart_rate": 82,
+        "temperature_c": 36.8,
+        "diagnosis": "Hypertension",
+        "medications": [
+            "Amlodipine 5mg"
+        ],
+        "allergies": [
+            "Penicillin"
+        ]
+    },
+    {
+        "patient_id": "P002",
+        "age": 28,
+        "gender": "Female",
+        "blood_group": "O+",
+        "symptoms": [
+            "Fever",
+            "Cough",
+            "Sore throat"
+        ],
+        "blood_pressure": "118/76",
+        "heart_rate": 88,
+        "temperature_c": 38.2,
+        "diagnosis": "Viral Infection",
+        "medications": [
+            "Paracetamol 500mg"
+        ],
+        "allergies": [
+            "None"
+        ]
+    },
+    {
+        "patient_id": "P003",
+        "age": 52,
+        "gender": "Male",
+        "blood_group": "A+",
+        "symptoms": [
+            "Increased thirst",
+            "Frequent urination",
+            "Fatigue"
+        ],
+        "blood_pressure": "138/85",
+        "heart_rate": 79,
+        "temperature_c": 36.7,
+        "diagnosis": "Type 2 Diabetes",
+        "medications": [
+            "Metformin 500mg"
+        ],
+        "allergies": [
+            "Sulfa drugs"
+        ]
+    },
+    {
+        "patient_id": "P004",
+        "age": 41,
+        "gender": "Female",
+        "blood_group": "AB+",
+        "symptoms": [
+            "Chest discomfort",
+            "Shortness of breath",
+            "Fatigue"
+        ],
+        "blood_pressure": "130/82",
+        "heart_rate": 92,
+        "temperature_c": 37.0,
+        "diagnosis": "Asthma",
+        "medications": [
+            "Salbutamol inhaler"
+        ],
+        "allergies": [
+            "Dust"
+        ]
+    },
+    {
+        "patient_id": "P005",
+        "age": 67,
+        "gender": "Male",
+        "blood_group": "O-",
+        "symptoms": [
+            "Joint pain",
+            "Morning stiffness",
+            "Swelling"
+        ],
+        "blood_pressure": "125/78",
+        "heart_rate": 75,
+        "temperature_c": 36.6,
+        "diagnosis": "Osteoarthritis",
+        "medications": [
+            "Ibuprofen 400mg"
+        ],
+        "allergies": [
+            "None"
+        ]
+    },
+    {
+        "patient_id": "P009",
+        "age": 1,
+        "gender": "male",
+        "blood_group": "string",
+        "symptoms": [
+            "string"
+        ],
+        "blood_pressure": "string",
+        "heart_rate": 1,
+        "temperature_c": 31.0,
+        "diagnosis": "string",
+        "medications": [
+            "string"
+        ],
+        "allergies": [
+            "string"
+        ]
+    },
+    {
+        "patient_id": "P010",
+        "age": 10,
+        "gender": "male",
+        "blood_group": "string",
+        "symptoms": [
+            "string"
+        ],
+        "blood_pressure": "string",
+        "heart_rate": 1,
+        "temperature_c": 31.0,
+        "diagnosis": "string",
+        "medications": [
+            "string"
+        ],
+        "allergies": [
+            "string"
+        ]
+    }
+]
